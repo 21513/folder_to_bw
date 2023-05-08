@@ -1,5 +1,5 @@
 # folder_to_bw
-Change an entire folder of images to black and white
+Change an entire folder of images to black and white. BE CAREFUL AND READ THIS!
 
 ...
 CHANGE THE PATH OF THE FOLDER BEFORE RUNNING THE CODE!!!
@@ -12,3 +12,5 @@ path = "D:/Pictures/Folder"
 Instead of this:
 
 path = "D:\Pictures\Folder"
+
+Remember... The files will be replaced and overwritten so make sure you have a backup!
